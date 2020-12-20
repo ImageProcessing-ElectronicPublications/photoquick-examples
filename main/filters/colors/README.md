@@ -5,7 +5,7 @@
 ## Filters: Colors
 
 Origin:  
-![orig](../lena.png)
+![orig](../../../orig/lena.png)
 
 Color Balance:  
 ![colorbalance](./lena.colorbalance.png)

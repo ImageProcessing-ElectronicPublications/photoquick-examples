@@ -5,7 +5,7 @@
 ## Transform
 
 Origin:  
-![orig](./lena.png)
+![orig](../../orig/lena.png)
 
 * [un-tilt](./un-tilt)
 * [un-tilt_local](./un-tilt_local)

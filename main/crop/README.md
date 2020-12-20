@@ -5,7 +5,7 @@
 ## Crop
 
 Origin:  
-![orig](./page0001.png)
+![orig](../../orig/page0001.png)
 
 Crop:  
 ![crop](./page0001.crop.png)

@@ -5,7 +5,7 @@
 ## Filters: Threshold
 
 Origin:  
-![orig](../lena.png)
+![orig](../../../orig/lena.png)
 
 Scaned Page:  
 ![scanedpage](./lena.scanedpage.png)

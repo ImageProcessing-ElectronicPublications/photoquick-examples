@@ -5,7 +5,7 @@
 ## Filters
 
 Origin:  
-![orig](./lena.png)
+![orig](../../orig/lena.png)
 
 * [colors](./colors)
 * [threshold](./threshold)

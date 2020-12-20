@@ -7,7 +7,7 @@
 See issue https://github.com/ImageProcessing-ElectronicPublications/photoquick/issues/20
 
 Origin:  
-![orig](./page003.png)
+![orig](../../../orig/page003.png)
 
 ----
 
