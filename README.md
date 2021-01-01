@@ -4,6 +4,8 @@
 
 This git contains examples of using photoquick (https://github.com/ImageProcessing-ElectronicPublications/photoquick) and its plugins (https://github.com/ImageProcessing-ElectronicPublications/photoquick-plugins).
 
+![photoquick](./orig/photoquick.png)
+
 * [photoquick](./main)
 * [plugins](./plugins)
 
