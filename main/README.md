@@ -5,8 +5,9 @@
 
 * [crop](./crop)
 * [filters](./filters)
+* [resize](./resize)
 * [transform](./transform)
 
 ----
 
-2020
+2021

@@ -7,10 +7,10 @@
 Origin:  
 ![orig](../../../orig/lena.png)
 
-Scalex {2}:  
+Scalex {2} (crop center):  
 ![scalex](./lena.scalex.2.png)
 
-XBRZ {2}:  
+XBRZ {2} (crop center):  
 ![xbrz](./lena.xbrz.2.png)
 
 ----
