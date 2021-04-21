@@ -10,6 +10,9 @@ Origin:
 Bimodal Threshold {2}:  
 ![bimod](./lena.bimod.2.png)
 
+D-algoritm {4,0}:  
+![dalg](./lena.dalg.4.0.png)
+
 Dither {2,0,2}:  
 ![dither](./lena.dither.2.0.2.png)
 
