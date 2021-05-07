@@ -7,12 +7,15 @@
 Origin:  
 ![orig](../../../orig/lena.png)
 
-Scalex {2} (crop center):  
-![scalex](./lena.scalex.2.png)
+ScaleX {4} (crop center):  
+![scalex](./lena.x4.scalex.png)
 
-XBRZ {2} (crop center):  
-![xbrz](./lena.xbrz.2.png)
+HQX {4} (crop center):  
+![hqx](./lena.x4.hqx.png)
+
+XBR {4} (crop center):  
+![xbr](./lena.x4.xbr.png)
 
 ----
 
-2020
+2021
