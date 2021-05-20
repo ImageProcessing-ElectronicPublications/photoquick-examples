@@ -8,7 +8,7 @@ Origin:
 ![orig](../../orig/lena.png)
 
 * [un-tilt](./un-tilt)
-* [un-tilt_local](./un-tilt_local)
+* [dewarping](./dewarping)
 
 Mirror:  
 ![mirror](./lena.mirror.png)
