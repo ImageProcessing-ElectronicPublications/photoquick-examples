@@ -7,12 +7,11 @@
 Origin:  
 ![orig](../../orig/lena.png)
 
-* [un-tilt](./un-tilt)
-* [dewarping](./dewarping)
+* [geometry](./geometry)
 
 Mirror:  
 ![mirror](./lena.mirror.png)
 
 ----
 
-2020
+2021

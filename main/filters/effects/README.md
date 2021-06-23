@@ -2,16 +2,16 @@
 
 ([photoquick](https://github.com/ImageProcessing-ElectronicPublications/photoquick))
 
-## Filters: Threshold
+## Filters: Effects
 
 Origin:  
 ![orig](../../../orig/lena.png)
 
-Scaned Page:  
-![scanedpage](./lena.scanedpage.png)
+PencilSketch:  
+![colorbalance](./lena.pencil.png)
 
-Threshold:  
-![threshold](./lena.threshold.png)
+Vignette:  
+![vignette](./lena.vignette.png)
 
 ----
 

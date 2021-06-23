@@ -4,15 +4,9 @@
 
 ## Filters
 
-Origin:  
-![orig](../../orig/lena.png)
-
-* [artistic](./artistic)
 * [colors](./colors)
+* [effects](./effects)
 * [threshold](./threshold)
-
-HDR Effect {0.10,0.80}:  
-![hdr](./lena.hdr.0.10.0.80.png)
 
 ----
 

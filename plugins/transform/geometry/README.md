@@ -2,17 +2,14 @@
 
 ([photoquick-plugins](https://github.com/ImageProcessing-ElectronicPublications/photoquick-plugins))
 
-## Filters: Artistic
+## Transform: Geometry
 
 Origin:  
 ![orig](../../../orig/lena.png)
 
-Kuwahara {3}:  
-![kuwahara](./lena.kuwahara.3.png)
-
-Pencil Sketch:  
-![pencilsketch](./lena.pencilsketch.png)
+GeoConformal p={0,0,1,0,0.01,-0.01} r={0,0,10,10} i=10:  
+![conform](./lena.geoconformal.png)
 
 ----
 
-2020
+2021

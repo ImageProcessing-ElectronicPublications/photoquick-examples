@@ -4,25 +4,12 @@
 
 ## Filters
 
-Origin:  
-![orig](../../orig/lena.png)
-
-* [colors](./colors)
-* [threshold](./threshold)
 * [brightness](./brightness)
+* [colors](./colors)
+* [effects](./effects)
 * [noise](./noise)
-
-Lens {20,0,10}:  
-![lens](./lena.lens.20.0.10.png)
-
-Smooth/Blur {5}:  
-![blur](./lena.blur.5.png)
-
-Smooth/Blur {-5}:  
-![deblur](./lena.blur.5n.png)
-
-Sharpen:  
-![sharpen](./lena.sharpen.png)
+* [smooth](./smooth)
+* [threshold](./threshold)
 
 ----
 

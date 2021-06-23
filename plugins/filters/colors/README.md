@@ -14,12 +14,9 @@ Gray Scale Local:
 Negate:  
 ![negate](./lena.negate.png)
 
-Quant {8,8,8}:  
-![quant](./lena.quant.8.8.8.png)
-
 Un Alpha:  
 ![unalpha](./wallwatter.unalpha.png)
 
 ----
 
-2020
+2021

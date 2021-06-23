@@ -2,12 +2,12 @@
 
 ([photoquick](https://github.com/ImageProcessing-ElectronicPublications/photoquick))
 
-## Transform: DeWarping
+## Transform: Geometry: DeWarping
 
 See issue https://github.com/ImageProcessing-ElectronicPublications/photoquick/issues/20
 
 Origin:  
-![orig](../../../orig/85251.jpg)
+![orig](../../../../orig/85251.jpg)
 
 DeWarping {5 node}:  
 ![dewarp](./85251-dewarp5.jpg)
