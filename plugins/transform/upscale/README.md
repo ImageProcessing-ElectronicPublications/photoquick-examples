@@ -10,6 +10,9 @@ Origin:
 ScaleX {4} (crop center):  
 ![scalex](./lena.x4.scalex.png)
 
+Eagle Fuzzy {4} (crop center):  
+![eagle](./lena.x4.eagle.png)
+
 HQX {4} (crop center):  
 ![hqx](./lena.x4.hqx.png)
 
